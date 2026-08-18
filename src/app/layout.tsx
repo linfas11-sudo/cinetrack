@@ -35,7 +35,7 @@ export const metadata: Metadata = {
     description: "Track upcoming Indian movies, web series, Bollywood, Tollywood, OTT releases, and your favorite actors.",
   },
   verification: {
-    google: "C2i5nyJkRB2wkzue1UMMxN63iCINbHhZslDIuRZBi5M",
+    google: "3vDRM3dhTENi00abOVlmqkXRLgAeiHgFDaohc-V7wxU",
   },
 };
 
